@@ -812,7 +812,7 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(255, 255, 255, 0.6);
+  background: rgba(0, 0, 0, 0.6);
 }
 
 .portfolio .portfolio-wrap::before {
@@ -852,8 +852,8 @@ section .container {
   position: absolute;
   top: 35px;
   left: 35px;
-  border-top: 3px solid #475bbb;
-  border-left: 3px solid #475bbb;
+  border-top: 3px solid #9ea9e4;
+  border-left: 3px solid #9ea9e4;
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -866,8 +866,8 @@ section .container {
   position: absolute;
   bottom: 35px;
   right: 35px;
-  border-bottom: 3px solid #475bbb;
-  border-right: 3px solid #475bbb;
+  border-bottom: 3px solid #9ea9e4;
+  border-right: 3px solid #9ea9e4;
   transition: all 0.5s ease 0s;
   z-index: 9994;
 }
@@ -892,7 +892,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
-  color: #475bbb;
+  color: #9ea9e4;
   margin: 0 2px;
   font-size: 28px;
   display: inline-block;
